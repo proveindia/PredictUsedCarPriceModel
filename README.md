@@ -32,6 +32,7 @@ We follow the **CRISP-DM** (Cross-Industry Standard Process for Data Mining) fra
 
 ## Project Structure
 *   `UsedCarPriceEDAandModels.ipynb`: The main Jupyter Notebook containing the analysis and modeling code.
+*   `Used_Car_Price_Analysis_Report.pdf` : Business Analysis report.
 *   `data/`: Directory containing the dataset (`vehicles.csv`).
 *   `helpers/`: Python scripts for helper functions:
     *   `data_eda.py`: Functions for outlier removal and visualization.
